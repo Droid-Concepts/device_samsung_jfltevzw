@@ -4,7 +4,7 @@ $(call inherit-product, device/samsung/jfltevzw/full_jfltevzw.mk)
 $(call inherit-product, vendor/Droid_Concepts/config/cdma.mk)
 
 # Enhanced NFC
-$(call inherit-product, vendor/DroidConcepts/config/nfc_enhanced.mk)
+$(call inherit-product, vendor/Droid_Concepts/config/nfc_enhanced.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/Droid_Concepts/config/common_full_phone.mk)
